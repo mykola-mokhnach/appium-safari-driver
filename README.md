@@ -1,6 +1,8 @@
 appium-safari-driver
 ====
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/appium/appium-safari-driver.svg)](https://greenkeeper.io/)
+
 This is an experimental Appium driver for automating Safari on Mac OS X. It is not designed for production use. It was built as part of a live demo for [Drivers of Change: Appium's Hidden Engines](https://www.youtube.com/watch?v=EhZuuZ1uEZk&list=PL67l1VPxOnT5UMXMojduH_cMuBmlYl90K&index=13&t=0s) ([@jlipps](https://github.com/jlipps)'s SauceCon 2018 talk).
 
 ## Setup
